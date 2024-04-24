@@ -1,0 +1,5 @@
+_lib/
+.settings/
+.buildpath
+.project
+secours.txt
